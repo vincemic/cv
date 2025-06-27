@@ -1,4 +1,4 @@
-# **VINCENT MICELI - Enterprise Architect**
+# **Vincent Miceli - Enterprise Architect**
 
 ![TVincent Miceli](/assets/me.small.jpg)
 
