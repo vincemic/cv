@@ -1,8 +1,6 @@
-# **Resume**
+# **VINCENT MICELI - Enterprise Architect**
 
 ![TVincent Miceli](/assets/me.small.jpg)
-
-## VINCENT MICELI
 
 Buffalo, NY
 📧 [vjm@orchardparksoftware.com](mailto:vjm@orchardparksoftware.com)
