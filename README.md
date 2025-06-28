@@ -1,9 +1,9 @@
 # **Vincent Miceli - Enterprise Architect**
 
-![TVincent Miceli](assets/me.small.jpg)
+![Picture Vincent Miceli](assets/me.small.jpg)
 
 Buffalo, NY
-📧 [vjm@orchardparksoftware.com](mailto:vjm@orchardparksoftware.com)
+[vjm@orchardparksoftware.com](mailto:vjm@orchardparksoftware.com)
 
 ---
 
