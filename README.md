@@ -1,6 +1,6 @@
 # **Vincent Miceli - Enterprise Architect**
 
-![Picture Vincent Miceli](assets/me.small.jpg)
+![Picture Vincent Miceli](https://www.gravatar.com/avatar/301658e9a5451302b1e179bc9726b424)
 
 Buffalo, NY
 [vjm@orchardparksoftware.com](mailto:vjm@orchardparksoftware.com)
@@ -17,8 +17,8 @@ I am a goal-driven **Enterprise Architect & Technology Leader** with over 30 yea
 
 - Software & Cloud Architecture
 - Creating and Communicating Architectural Vision
-- Agile & SAFe Project Management
 - Team Leadership & Cross-Functional Collaboration
+- Agile & SAFe Project Management
 - Solution Design & Enterprise Integration
 - SSDLC & CI/CD/CT Technology and Practices
 - Conversational AI & Emerging Tech Innovation  
