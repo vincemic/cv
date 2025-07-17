@@ -230,6 +230,12 @@ Trained in Leading SAFe, Certified Scrum Master, Agile, XP, RAD, Test-Driven Dev
 
 ---
 
+## **Certifications**
+
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/23cb0723-931d-4e64-b663-94690f8b77a9/public_url)
+
+---
+
 ## **Hobby Projects**
 
 **bitdog.io**
