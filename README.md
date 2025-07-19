@@ -220,13 +220,14 @@ I installed and supported Novell and Windows NT computer networks for local hosp
 ## **Technical Proficiencies**
 
 **Languages & Frameworks:**  
-C#, C++, C, SQL, JavaScript, TypeScript, Angular, React, HTML/CSS, ASP.NET
+C#, C++, C, SQL, JavaScript, TypeScript, Node.js, Angular, React, HTML/CSS, ASP.NET, Playwright, AI/LLM (OpenAI)
 
 **Tools & Platforms:**  
-Visual Studio, Visual Studio Code, Azure DevOps, SQL Server, IIS, Azure, and AWS  
+Visual Studio, Visual Studio Code, Azure DevOps, SQL Server, PostgreSQL, Oracle
+Azure and AWS Clouds 
 
 **Process & Methodologies:**  
-Trained in Leading SAFe, Certified Scrum Master, Agile, XP, RAD, Test-Driven Development, Relational & Object-Oriented Design
+Trained in Leading SAFe, Certified Scrum Master, SSDLC, CI/CD/CT, Agile, XP, RAD, Test-Driven Development, Relational & Object-Oriented Design
 
 ---
 
