@@ -157,7 +157,7 @@ The ActiveCampus eMarketing 2.x application code base contained over 500,000 lin
 - One-to-one marketing
 - WYSIWYG web page editing
 
-**Commerce Innovations Group**, Buffalo, NY
+**Commerce Innovations Group**, Buffalo, NY  
 **Co-Founder / Architect**  
 *Mar 2002 – Feb 2003*  
 
@@ -170,19 +170,26 @@ I was a co-founder and lead systems architect for Commerce Innovations Group. I 
 - Kingdom Financial Holdings
   - Created “Western Union” style money transfer system for web-based orders using ASP.NET, SOAP and Window Forms based applications.
 
-**LiquidMatrix**, Orchard Park, New York
+**LiquidMatrix**, Orchard Park, New York  
 **Chief Architect**
 *August 2001 – March 2002*  
 
 I was the chief architect and software developer for ActiveCampus eMarketing 2.0.  This product is based on Microsoft .NET platform. The product has Internet front-end based on ASP.NET and middleware components based on SOAP/Web Services and Microsoft SQL Server. As the lead architect and project manager my responsibilities included developing and delivering comprehensive training on .NET technologies for the development team. I designed new and innovative applications delivered as ASP.NET Web based interfaces and .NET desktop applications.
 
-**Reciprocal**, Buffalo, New York  
+- Developed Object-to-Relational framework for ADO.NET, before NHibernate and Entity Framework were available.
+
+
+**Reciprocal**, Buffalo, New York   
 **Software Architect Enterprise Management Systems**
 *January 1997 – July 2001*  
 
-I spearheaded research, design, and implementation of a sophisticated datacenter enterprise management system for a heterogeneous network of SUN, Microsoft NT, and Nortel equipment using BMC Patrol and IBM Micromuse Netcool/Omnibus. I developed Knowledge Modules for proprietary applications using BMC Patrol Agents and BMC Patrol PSL. The system centralized management of operations for three production datacenters and one disaster recovery site. I created software and documentation for the installation of new datacenters. I successfully led a four-week project to install a digital rights clearinghouse datacenter implementation for Mitsubishi in Yokohama, Japan.
+I spearheaded research, design, and implementation of a sophisticated datacenter enterprise management system for a heterogeneous network of SUN, Microsoft NT, and Nortel equipment using BMC Patrol and IBM Micromuse Netcool/Omnibus. I developed Knowledge Modules for proprietary applications using BMC Patrol Agents and BMC Patrol PSL. The system centralized management of operations for three production datacenters and one disaster recovery site. I created software and documentation for the installation of new datacenters. I successfully led a four-week project to install a digital rights clearinghouse datacenter implementation for Mitsubishi in Yokohama, Japan. 
 
-**Client Logic**, Buffalo, New York
+- Check Point Firewall Administrator
+- EMC Storage Administrator
+- Sun Solaris Unix Administrator
+
+**Client Logic**, Buffalo, New York  
 **Chief System Software Architect**
 *January 1996 – January 1997*  
 
@@ -194,11 +201,15 @@ I was the designer and chief programmer of a fault tolerant and load balanced di
 - IBM - OS/2 Warp product registration back-office
   - I invented the General Transaction Protocol (GTP) used in this solution
 
-**Client Logic**, Buffalo, New York
+**Client Logic**, Buffalo, New York  
 **R&D Manager of Electronic Services**
 *February 1994 – January 1996*  
 
-I founded Client Logic’s Interactive Voice Response application development group. Development languages included C, C++, VoiceTek Generations, and Informix Embedded SQL for C. The IVR system created a new million-dollar revenue stream for Client Logic. Applications developed included:
+I founded Client Logic’s Interactive Voice Response application development group. Development languages included C, C++, VoiceTek Generations, and Informix Embedded SQL for C. The IVR system created a new million-dollar revenue stream for Client Logic. 
+
+- SCO Unix Admin
+
+Applications developed included:
   
 - Call Tree Processing
 - Technical Support Self Help
@@ -208,6 +219,8 @@ I founded Client Logic’s Interactive Voice Response application development gr
 - Automated Customer Account Management
 - Interactive Television Back-office
 - Coined the term "Client Logic in a can" to promote the development of a standard API for partner integration.
+
+
 
 **O.A . Systems**, Buffalo, New York  
 **Senior Network Engineer / Repair Depot Manager**
