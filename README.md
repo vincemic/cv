@@ -298,7 +298,7 @@ This is a project I created for a Splunk Hackathon that enabled mobile access to
 
 ## **Education**  
 
-**Born with technology in my DNA**, Buffalo NY
+**Born with technology in my DNA**, Buffalo NY  
 "Life-long learner, 1969"
 
 - Electronic hobbyist starting at age 8
@@ -312,6 +312,6 @@ This is a project I created for a Splunk Hackathon that enabled mobile access to
 - Left program when professor wouldn't let me use my home computer to finish Pascal programming assignments. ECC's mainframe was slow and over utilized. It often took hours to complete simple assignments which would take only minutes on my Commodore 128. 
 
 **Bryant & Stratton Business School**, Clarence, NY  
-*Electronic Technology, 1992 — GPA: 4.0*
+*Electronic Technology, 1991 — GPA: 4.0*
 
 - Left program with only a half credit remaining towards an associates degree for first job repairing computer equipment.
