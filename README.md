@@ -193,7 +193,7 @@ I spearheaded research, design, and implementation of a sophisticated datacenter
 **Chief System Software Architect**
 *January 1996 – January 1997*  
 
-I was the designer and chief programmer of a fault tolerant and load balanced distributed system framework similar to Object Management Group’s CORBA. I was also the designer and chief programmer of Internet order entry software based on ParcPlace’s Visual Wave. The success of this Web based order entry software led to the development of Client Logic’s Internet Commerce division. I helped design the first web base systems for Client Logic customers including:
+I was the designer and chief programmer of a fault tolerant and load balanced distributed system framework similar to Object Management Group’s CORBA. I was also the designer and chief programmer of internet order entry software based on ParcPlace’s Visual Wave. The success of this Web based order entry software led to the development of Client Logic’s Internet Commerce division. I helped design the first web-base systems for Client Logic customers including:
 
 - Microsoft - Microsoft's first internet shopping chart application
 - Traveling Software - technical support
@@ -206,8 +206,6 @@ I was the designer and chief programmer of a fault tolerant and load balanced di
 *February 1994 – January 1996*  
 
 I founded Client Logic’s Interactive Voice Response application development group. Development languages included C, C++, VoiceTek Generations, and Informix Embedded SQL for C. The IVR system created a new million-dollar revenue stream for Client Logic. 
-
-- SCO Unix Admin
 
 Applications developed included:
   
@@ -236,8 +234,7 @@ I installed and supported Novell and Windows NT computer networks for local hosp
 C#, C++, C, SQL, JavaScript, TypeScript, Node.js, Angular, React, HTML/CSS, ASP.NET, Playwright, AI/LLM (OpenAI)
 
 **Tools & Platforms:**  
-Visual Studio, Visual Studio Code, Azure DevOps, SQL Server, PostgreSQL, Oracle
-Azure and AWS Clouds 
+Visual Studio, Visual Studio Code, Azure DevOps, SQL Server, PostgreSQL, Oracle, Azure Cloud and AWS Cloud
 
 **Process & Methodologies:**  
 Trained in Leading SAFe, Certified Scrum Master, SSDLC, CI/CD/CT, Agile, XP, RAD, Test-Driven Development, Relational & Object-Oriented Design
@@ -301,5 +298,20 @@ This is a project I created for a Splunk Hackathon that enabled mobile access to
 
 ## **Education**  
 
+**Born with technology in my DNA**, Buffalo NY
+"Life-long learner, 1969"
+
+- Electronic hobbyist starting at age 8
+- Taught myself Basic on TI/99 4A at age 12
+- Taught myself 6502 Assembler on Commodore 64 at age 14
+- Building electronic projects using microcontrollers at age 18
+
+**Erie Community College**, Orchard Park, NY  
+*Computer Science, 1988*
+
+- Left program when professor wouldn't let me use my home computer to finish Pascal programming assignments. ECC's mainframe was slow and over utilized. It often took hours to complete simple assignments which would take only minutes on my Commodore 128. 
+
 **Bryant & Stratton Business School**, Clarence, NY  
 *Electronic Technology, 1992 — GPA: 4.0*
+
+- Left program with only a half credit remaining towards an associates degree for first job repairing computer equipment.
