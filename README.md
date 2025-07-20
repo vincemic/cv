@@ -5,6 +5,8 @@
 Buffalo, NY
 [vjm@orchardparksoftware.com](mailto:vjm@orchardparksoftware.com)
 
+Latest resume version: https://github.com/vincemic/cv
+
 ---
 
 ## **Professional Summary**  
@@ -88,7 +90,7 @@ I am one of six Enterprise Architects acting in a distributed CTO capacity. Each
     - Administration Portal - Internal business workflow tool for processing provider supplied corrections
     - Gap Correction Widget - Specialized web component designed to work within the provider portal to enable providers to submit corrections and supporting evidence
   
-  - **Azure DevOps**: I transitioned Independent Health from Rally to Team Foundation Server over a decade ago. Since then, I have helped the organization become more agile and adopt CI/CD/CT and SSDLC practices. I helped them to move from Team Foundation Server to Azure DevOps Services when it became available. I personally helped many teams transition their source code to Azure Repos and configure pipelines for automated building and deployment to on-premise and cloud environments. I also developed customized integrations for OpenText ALM that enables Azure pipelines to call automated regression tests in ALM.
+  - **Azure DevOps**: I transitioned Independent Health from Rally to Team Foundation Server over a decade ago. Since then, I have helped the organization become more agile and adopt CI/CD/CT and SSDLC practices. I helped them move from Team Foundation Server to Azure DevOps Services when it became available. I personally helped many teams transition their source code to Azure Repos and configure pipelines for automated building and deployment to on-premise and cloud environments. I also developed customized integrations for OpenText ALM that enables Azure pipelines call automated regression tests in ALM.
 
     - I created a video to promote Azure DevOps and explain how Azure DevOps works in an ITSM organization to help the organization meet SAFe and COBIT control objectives [ITSM Integration](https://youtu.be/OLR6cn0Db3s)
 
@@ -128,7 +130,7 @@ The new customer service interface architecture consisted of:
   
 When the new customer service interface was released.
 
-- Required training for new representatives went from three weeks to two days,
+- Required training for new representatives went from three weeks to two days
 - Average call handle time went down 50%
 - Quality went up by 75%
 
@@ -138,20 +140,20 @@ When the new customer service interface was released.
 
 I was the lead architect and software developer for ActiveCampus eMarketing 2.x. My duties encompassed:
   
-- Building and mentoring .NET development teams.
-- Implement test driven development methodologies.
-- Implement agile development methodologies.
-- Collecting business requirements.
-- Documenting technical requirements and specifications.
-- Creating and keeping coding standards.
-- Object-to-relational database mapping.
+- Building and mentoring .NET development teams
+- Implement test driven development methodologies
+- Implement agile development methodologies
+- Collecting business requirements
+- Documenting technical requirements and specifications
+- Creating and keeping coding standards
+- Object-to-relational database mapping
 - Exception handling
 - Security
 - Unit testing
 
 The ActiveCampus eMarketing 2.x application code base contained over 500,000 lines of code and its database schema consisted of over four hundred tables. The released application included tools for:
 
-- Web based content management.
+- Web-based content management
 - E-commerce
 - Event ticketing
 - One-to-one marketing
@@ -171,38 +173,38 @@ I was a co-founder and lead systems architect for Commerce Innovations Group. I 
   - Created “Western Union” style money transfer system for web-based orders using ASP.NET, SOAP and Window Forms based applications.
 
 **LiquidMatrix**, Orchard Park, New York  
-**Chief Architect**
+**Chief Architect**  
 *August 2001 – March 2002*  
 
-I was the chief architect and software developer for ActiveCampus eMarketing 2.0.  This product is based on Microsoft .NET platform. The product has Internet front-end based on ASP.NET and middleware components based on SOAP/Web Services and Microsoft SQL Server. As the lead architect and project manager my responsibilities included developing and delivering comprehensive training on .NET technologies for the development team. I designed new and innovative applications delivered as ASP.NET Web based interfaces and .NET desktop applications.
+I was the chief architect and software developer for ActiveCampus eMarketing 2.0.  This product is based on Microsoft .NET platform. The product had an internet front-end based on ASP.NET and middleware components based on SOAP/Web Services and Microsoft SQL Server. As the lead architect and project manager my responsibilities included developing and delivering comprehensive training on .NET technologies for the development team. I designed new and innovative applications delivered as ASP.NET web-based interfaces and .NET desktop applications.
 
 - Developed Object-to-Relational framework for ADO.NET, before NHibernate and Entity Framework were available.
 
 
 **Reciprocal**, Buffalo, New York   
-**Software Architect Enterprise Management Systems**
+**Software Architect Enterprise Management Systems**  
 *January 1997 – July 2001*  
 
-I spearheaded research, design, and implementation of a sophisticated datacenter enterprise management system for a heterogeneous network of SUN, Microsoft NT, and Nortel equipment using BMC Patrol and IBM Micromuse Netcool/Omnibus. I developed Knowledge Modules for proprietary applications using BMC Patrol Agents and BMC Patrol PSL. The system centralized management of operations for three production datacenters and one disaster recovery site. I created software and documentation for the installation of new datacenters. I successfully led a four-week project to install a digital rights clearinghouse datacenter implementation for Mitsubishi in Yokohama, Japan. 
+I spearheaded research, design, and implementation of a sophisticated datacenter enterprise management system for a heterogeneous network of SUN, Microsoft NT, and Nortel equipment using BMC Patrol and IBM Micromuse Netcool/Omnibus. I developed Knowledge Modules for proprietary applications using BMC Patrol agents and BMC Patrol PSL. The system centralized management of operations for three production datacenters and one disaster recovery site. I created software and documentation for the installation of new datacenters. I successfully led a four-week project to install a digital rights clearinghouse datacenter implementation for Mitsubishi in Yokohama, Japan. 
 
 - Check Point Firewall Administrator
 - EMC Storage Administrator
 - Sun Solaris Unix Administrator
 
 **Client Logic**, Buffalo, New York  
-**Chief System Software Architect**
+**Chief System Software Architect**  
 *January 1996 – January 1997*  
 
-I was the designer and chief programmer of a fault tolerant and load balanced distributed system framework similar to Object Management Group’s CORBA. I was also the designer and chief programmer of internet order entry software based on ParcPlace’s Visual Wave. The success of this Web based order entry software led to the development of Client Logic’s Internet Commerce division. I helped design the first web-base systems for Client Logic customers including:
+I was the designer and chief programmer of a fault tolerant and load balanced distributed system framework similar to Object Management Group’s CORBA. I was also the designer and chief programmer of internet order entry software based on ParcPlace’s Visual Wave. The success of this web-based order entry software led to the development of Client Logic’s Internet Commerce division. I helped design the first web-base systems for Client Logic customers including:
 
 - Microsoft - Microsoft's first internet shopping chart application
-- Traveling Software - technical support
-- Informix - technical support
-- IBM - OS/2 Warp product registration back-office
+- Traveling Software - technical support application
+- Informix - technical support application
+- IBM - OS/2 Warp product registration application back-office services
   - I invented the General Transaction Protocol (GTP) used in this solution
 
 **Client Logic**, Buffalo, New York  
-**R&D Manager of Electronic Services**
+**R&D Manager of Electronic Services**  
 *February 1994 – January 1996*  
 
 I founded Client Logic’s Interactive Voice Response application development group. Development languages included C, C++, VoiceTek Generations, and Informix Embedded SQL for C. The IVR system created a new million-dollar revenue stream for Client Logic. 
@@ -221,7 +223,7 @@ Applications developed included:
 
 
 **O.A . Systems**, Buffalo, New York  
-**Senior Network Engineer / Repair Depot Manager**
+**Senior Network Engineer / Repair Depot Manager**  
 *March 1992 – February 1994*  
 
 I installed and supported Novell and Windows NT computer networks for local hospitals, town government offices, law firms, and various small businesses. I specialized in troubleshooting and solving difficult hardware and software problems. During this time, I also managed an electronic repair depot where I repaired computers, monitors, and printers.
@@ -299,19 +301,19 @@ This is a project I created for a Splunk Hackathon that enabled mobile access to
 ## **Education**  
 
 **Born with technology in my DNA**, Buffalo NY  
-"Life-long learner, 1969"
+"Life-long learner, 1969"  
 
 - Electronic hobbyist starting at age 8
 - Taught myself Basic on TI/99 4A at age 12
 - Taught myself 6502 Assembler on Commodore 64 at age 14
 - Building electronic projects using microcontrollers at age 18
 
-**Erie Community College**, Orchard Park, NY  
-*Computer Science, 1988*
+**Erie Community College**, Orchard Park, NY   
+*Computer Science, 1988*  
 
 - Left program when professor wouldn't let me use my home computer to finish Pascal programming assignments. ECC's mainframe was slow and over utilized. It often took hours to complete simple assignments which would take only minutes on my Commodore 128. 
 
 **Bryant & Stratton Business School**, Clarence, NY  
-*Electronic Technology, 1991 — GPA: 4.0*
+*Electronic Technology, 1991 — GPA: 4.0*  
 
 - Left program with only a half credit remaining towards an associates degree for first job repairing computer equipment.
