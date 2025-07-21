@@ -248,6 +248,8 @@ Trained in Leading SAFe, Certified Scrum Master, SSDLC, CI/CD/CT, Agile, XP, RAD
 
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/23cb0723-931d-4e64-b663-94690f8b77a9/public_url)
 
+[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/VincentMiceli-8720/A080F7C08668E77?sharingId)
+
 ---
 
 ## **Hobby Projects**
