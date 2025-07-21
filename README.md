@@ -176,7 +176,7 @@ I was a co-founder and lead systems architect for Commerce Innovations Group. I 
 **Chief Architect**  
 *August 2001 – March 2002*  
 
-I was the chief architect and software developer for ActiveCampus eMarketing 2.0.  This product is based on Microsoft .NET platform. The product had an internet front-end based on ASP.NET and middleware components based on SOAP/Web Services and Microsoft SQL Server. As the lead architect and project manager my responsibilities included developing and delivering comprehensive training on .NET technologies for the development team. I designed new and innovative applications delivered as ASP.NET web-based interfaces and .NET desktop applications.
+I was the chief architect and software developer for ActiveCampus eMarketing 2.0. This product is based on Microsoft .NET platform. The product had an internet front-end based on ASP.NET and middleware components based on SOAP/Web Services and Microsoft SQL Server. As the lead architect and project manager my responsibilities included developing and delivering comprehensive training on .NET technologies for the development team. I designed new and innovative applications delivered as ASP.NET web-based interfaces and .NET desktop applications.
 
 - Developed Object-to-Relational framework for ADO.NET, before NHibernate and Entity Framework were available.
 
@@ -311,10 +311,10 @@ This is a project I created for a Splunk Hackathon that enabled mobile access to
 - Taught myself 6502 Assembler on Commodore 64 at age 14
 - Building electronic projects using microcontrollers at age 18
 
-**Erie Community College**, Orchard Park, NY   
+**Erie Community College**, Orchard Park, NY
 *Computer Science, 1988*  
 
-- Left program when professor wouldn't let me use my home computer to finish Pascal programming assignments. ECC's mainframe was slow and over utilized. It often took hours to complete simple assignments which would take only minutes on my Commodore 128. 
+- Left program when professor wouldn't let me use my home computer to finish Pascal programming assignments. ECC's mainframe was slow and over utilized. It often took hours to complete simple assignments which would take only minutes on my Commodore 128.
 
 **Bryant & Stratton Business School**, Clarence, NY  
 *Electronic Technology, 1991 — GPA: 4.0*  
