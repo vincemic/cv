@@ -217,7 +217,8 @@ Applications developed included:
 - Order Status
 - Automated Order Entry
 - Automated Customer Account Management
-- Interactive Television Back-office
+- Super NES Online Gaming Personalization and Parental control back-office for Catapult Entertainment [XBAND](https://en.wikipedia.org/wiki/XBAND)
+- Interactive Television back-office for [Zing Interactve System](http://www.faqs.org/rulings/rulings1995HQ957321.html)
 - Coined the term "Client Logic in a can" to promote the development of a standard API for partner integration.
 
 
