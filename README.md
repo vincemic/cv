@@ -5,7 +5,7 @@
 Buffalo, NY
 [vjm@orchardparksoftware.com](mailto:vjm@orchardparksoftware.com)
 
-Latest resume version: https://github.com/vincemic/cv
+Latest resume version: <https://github.com/vincemic/cv>
 
 ---
 
@@ -29,7 +29,8 @@ I am a goal-driven **Enterprise Architect & Technology Leader** with over 30 yea
 
 ## **Professional Experience**
 
-**Independent Health**, Williamsville, NY  
+**Independent Health**  
+Williamsville, NY  
 **Enterprise Architect, Cloud Enablement & Digital Experience**  
 *Feb 2012 – Present*  
 
@@ -109,13 +110,15 @@ I am one of six Enterprise Architects acting in a distributed CTO capacity. Each
 
   - **Greyhound ESB**: I worked with Information Risk Office, CIO, and Director of Application Delivery to lobby for the creation of an enterprise service bus based on Java and open source software such as Apache Camel. The solution enabled Independent Health to get off of IBM Message Broker and proprietary IBM hardware. I also recently lobbied for a new ESB called Airbus which would be based on native Azure cloud services and use modern Zero Trust security designs.
 
-**CTG**, Buffalo, NY  
+**CTG**  
+Buffalo, NY  
 **Software Architect – Independent Health SOA Architect**  
 *Jun 2011 – Feb 2012*
 
 I designed and implemented a fully integrated and automated document generation system for member correspondence using HP Exstream. I worked with multiple departments within Independent Health and gathered information about  corresponding generation, printing, and mailing. I created a new Enterprise Correspondence team to create a correspondence center of excellence. While I was working on the Core Administrative Program project, I recognized there was a need to organize solution architects and collaborate together. I founded the Architect's Round Table and organized frequent collaboration sessions between enterprise architects and dozens of solution architects. I helped organize architectural roadmaps and share them across the various project teams. This work led to Independent Health hiring me as a full-time Enterprise Architect.
 
-**Meritain Health**, Buffalo, NY  
+**Meritain Health**  
+Buffalo, NY  
 **Principal Application Architect**  
 *May 2009 – Apr 2011*  
 
@@ -134,7 +137,8 @@ When the new customer service interface was released.
 - Average call handle time went down 50%
 - Quality went up by 75%
 
-**Datatel (Ellucian)**, Buffalo, NY  
+**Datatel (Ellucian)**  
+Buffalo, NY  
 **Software Architect, ActiveCampus eMarketing**  
 *Feb 2003 – May 2009*  
 
@@ -159,7 +163,8 @@ The ActiveCampus eMarketing 2.x application code base contained over 500,000 lin
 - One-to-one marketing
 - WYSIWYG web page editing
 
-**Commerce Innovations Group**, Buffalo, NY  
+**Commerce Innovations Group**  
+Buffalo, NY  
 **Co-Founder / Architect**  
 *Mar 2002 – Feb 2003*  
 
@@ -172,7 +177,8 @@ I was a co-founder and lead systems architect for Commerce Innovations Group. I 
 - Kingdom Financial Holdings
   - Created “Western Union” style money transfer system for web-based orders using ASP.NET, SOAP and Window Forms based applications.
 
-**LiquidMatrix**, Orchard Park, New York  
+**LiquidMatrix**  
+Orchard Park, New York  
 **Chief Architect**  
 *August 2001 – March 2002*  
 
@@ -180,18 +186,19 @@ I was the chief architect and software developer for ActiveCampus eMarketing 2.0
 
 - Developed Object-to-Relational framework for ADO.NET, before NHibernate and Entity Framework were available.
 
-
-**Reciprocal**, Buffalo, New York   
+**Reciprocal**  
+Buffalo, New York  
 **Software Architect Enterprise Management Systems**  
 *January 1997 – July 2001*  
 
-I spearheaded research, design, and implementation of a sophisticated datacenter enterprise management system for a heterogeneous network of SUN, Microsoft NT, and Nortel equipment using BMC Patrol and IBM Micromuse Netcool/Omnibus. I developed Knowledge Modules for proprietary applications using BMC Patrol agents and BMC Patrol PSL. The system centralized management of operations for three production datacenters and one disaster recovery site. I created software and documentation for the installation of new datacenters. I successfully led a four-week project to install a digital rights clearinghouse datacenter implementation for Mitsubishi in Yokohama, Japan. 
+I spearheaded research, design, and implementation of a sophisticated datacenter enterprise management system for a heterogeneous network of SUN, Microsoft NT, and Nortel equipment using BMC Patrol and IBM Micromuse Netcool/Omnibus. I developed Knowledge Modules for proprietary applications using BMC Patrol agents and BMC Patrol PSL. The system centralized management of operations for three production datacenters and one disaster recovery site. I created software and documentation for the installation of new datacenters. I successfully led a four-week project to install a digital rights clearinghouse datacenter implementation for Mitsubishi in Yokohama, Japan.
 
 - Check Point Firewall Administrator
 - EMC Storage Administrator
 - Sun Solaris Unix Administrator
 
-**ClientLogic**, Buffalo, New York  
+**ClientLogic**  
+Buffalo, New York  
 **Chief System Software Architect**  
 *January 1996 – January 1997*  
 
@@ -203,11 +210,12 @@ I was the designer and chief programmer of a fault tolerant and load balanced di
 - IBM - OS/2 Warp product registration application back-office services
   - I invented the General Transaction Protocol (GTP) used in this solution
 
-**ClientLogic**, Buffalo, New York  
+**ClientLogic**  
+Buffalo, New York  
 **R&D Manager of Electronic Services**  
 *February 1994 – January 1996*  
 
-I founded ClientLogic’s Interactive Voice Response application development group. Development languages included C, C++, VoiceTek Generations, and Informix Embedded SQL for C. The IVR system created a new million-dollar revenue stream for Client Logic. 
+I founded ClientLogic’s Interactive Voice Response application development group. Development languages included C, C++, VoiceTek Generations, and Informix Embedded SQL for C. The IVR system created a new million-dollar revenue stream for Client Logic.
 
 Applications developed included:
   
@@ -221,9 +229,8 @@ Applications developed included:
 - Interactive Television back-office for [Zing Interactve System](http://www.faqs.org/rulings/rulings1995HQ957321.html)
 - Coined the term "ClientLogic in a can" to promote the development of a standard API for partner integration.
 
-
-
-**O.A . Systems**, Buffalo, New York  
+**O.A . Systems**  
+Buffalo, New York  
 **Senior Network Engineer / Repair Depot Manager**  
 *March 1992 – February 1994*  
 
