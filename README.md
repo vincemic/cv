@@ -191,7 +191,7 @@ I spearheaded research, design, and implementation of a sophisticated datacenter
 - EMC Storage Administrator
 - Sun Solaris Unix Administrator
 
-**Client Logic**, Buffalo, New York  
+**ClientLogic**, Buffalo, New York  
 **Chief System Software Architect**  
 *January 1996 – January 1997*  
 
@@ -203,11 +203,11 @@ I was the designer and chief programmer of a fault tolerant and load balanced di
 - IBM - OS/2 Warp product registration application back-office services
   - I invented the General Transaction Protocol (GTP) used in this solution
 
-**Client Logic**, Buffalo, New York  
+**ClientLogic**, Buffalo, New York  
 **R&D Manager of Electronic Services**  
 *February 1994 – January 1996*  
 
-I founded Client Logic’s Interactive Voice Response application development group. Development languages included C, C++, VoiceTek Generations, and Informix Embedded SQL for C. The IVR system created a new million-dollar revenue stream for Client Logic. 
+I founded ClientLogic’s Interactive Voice Response application development group. Development languages included C, C++, VoiceTek Generations, and Informix Embedded SQL for C. The IVR system created a new million-dollar revenue stream for Client Logic. 
 
 Applications developed included:
   
@@ -219,7 +219,7 @@ Applications developed included:
 - Automated Customer Account Management
 - Super NES Online Gaming Personalization and Parental control back-office for Catapult Entertainment [XBAND](https://en.wikipedia.org/wiki/XBAND)
 - Interactive Television back-office for [Zing Interactve System](http://www.faqs.org/rulings/rulings1995HQ957321.html)
-- Coined the term "Client Logic in a can" to promote the development of a standard API for partner integration.
+- Coined the term "ClientLogic in a can" to promote the development of a standard API for partner integration.
 
 
 
