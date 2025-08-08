@@ -1,0 +1,199 @@
+Vincent Miceli
+
+Buffalo, NY
+vjm@orchardparksoftware.com
+
+
+PROFESSIONAL SUMMARY
+
+I am a goal-driven Enterprise Architect & Technology Leader with over 30 years of full-spectrum expertise in software development, enterprise architecture, and agile project execution. I have a proven track record of leading technology transformations, building high-performing teams, and delivering innovative digital experiences. I am very experienced at aligning technology with business strategy to create user-centric solutions.
+
+CORE COMPETENCIES
+
+- Software & Cloud Architecture
+- Creating and Communicating Architectural Vision
+- Team Leadership & Cross-Functional Collaboration
+- Agile & SAFe Project Management
+- Solution Design & Enterprise Integration
+- SSDLC & CI/CD/CT Technology and Practices
+- Conversational AI & Emerging Tech Innovation
+
+WORK EXPERIENCE
+
+Independent Health
+Williamsville, NY
+Enterprise Architect, Cloud Enablement & Digital Experience
+Feb 2012 – Present
+
+I am one of six Enterprise Architects acting in a distributed CTO capacity. Each architect is aligned with a business portfolio servicing a set of technical solutions. I am aligned with customer experience, software development, integration, and cloud strategy. I often lead proof-of-concept development projects. I have established and scaled multiple agile delivery teams for cloud infrastructure, .NET development, and enterprise correspondence management. I specialize in providing enterprise directives and solutions for software development, SSDLC, CI/CD/CT, agile project management.
+
+I delivered transformative digital platforms including:
+
+- Benefit Chatbot Charlie: I created a conversational AI chatbot proof-of-concept. The chatbot is able to answer dozens of standard member questions by using real-time member information queried from back-end systems. Charlie's architecture used Angular SPA hosted on Azure App Service with .NET Core REST API, Azure OpenAI, Azure Document Intelligence, Azure AI, Azure Function App, and Independent Health Member Portal Rest API.
+
+- FHIR: I was the lead Enterprise Architect on Independent Health's first FHIR server deployed to support Patient Access Interoperability regulations. I helped design PostgreSQL Schema to manage benefit, clinical, and consent data, ETL Integration to extract MDM and EDW member data for FHIR use, Duende IdentityServer / OAuth integration, ASP.NET Authorization and consent flows, and HEALTHeLINK integration.
+
+- Member Center: I created an Enterprise Architecture proposal to create an internal customer service interface called Member Center. Member Center is a web-based portal SPA built on ASP.NET and Angular. It provides Independent Health associates from any department an easy and convenient way to find member information. It offers a full 360 view of member data from across multiple backend systems.
+
+- Member Portal: I led the transition from a fully outsourced member portal to an in-house developed, Microsoft .NET-based solution. I helped build a new development team, establish modern development processes, and architected the new portal platform for scalability and maintainability.
+
+CTG
+Buffalo, NY
+Software Architect – Independent Health SOA Architect
+Jun 2011 – Feb 2012
+
+I designed and implemented a fully integrated and automated document generation system for member correspondence using HP Exstream. I worked with multiple departments within Independent Health and gathered information about corresponding generation, printing, and mailing. I created a new Enterprise Correspondence team to create a correspondence center of excellence.
+
+Meritain Health
+Buffalo, NY
+Principal Application Architect
+May 2009 – Apr 2011
+
+I led a project to develop a new customer service interface for call center operations. The goal of the new interface was to reduce the complexity of servicing member calls. I led the team that gathered requirements and interviewed dozens of call center managers and service representatives. We used customer-centric approaches to our design, sharing low-fidelity user interface mock-ups to solicit end-user feedback before development began.
+
+The new customer service interface architecture consisted of:
+- Microsoft Silverlight based user interface
+- Specialized Model-View-ViewModel layer to facilitate remote service calls and XAML data binding
+- ASP.NET Rest API backend
+- Integration to Meritain's enterprise service bus
+
+When the new customer service interface was released:
+- Required training for new representatives went from three weeks to two days
+- Average call handle time went down 50%
+- Quality went up by 75%
+
+Datatel (Ellucian)
+Buffalo, NY
+Software Architect, ActiveCampus eMarketing
+Feb 2003 – May 2009
+
+I was the lead architect and software developer for ActiveCampus eMarketing 2.x. My duties encompassed:
+- Building and mentoring .NET development teams
+- Implementing test-driven development methodologies
+- Implementing agile development methodologies
+- Collecting business requirements
+- Documenting technical requirements and specifications
+- Creating and keeping coding standards
+- Object-to-relational database mapping
+- Exception handling
+- Security
+- Unit testing
+
+The ActiveCampus eMarketing 2.x application code base contained over 500,000 lines of code and its database schema consisted of over four hundred tables. The released application included tools for:
+- Web-based content management
+- E-commerce
+- Event ticketing
+- One-to-one marketing
+- WYSIWYG web page editing
+
+Commerce Innovations Group
+Buffalo, NY
+Co-Founder / Architect
+Mar 2002 – Feb 2003
+
+I was a co-founder and lead systems architect for Commerce Innovations Group. I specialized in building customized e-commerce software solutions based on the Microsoft .NET platform and technology. I offered complete solution development from project planning and requirements gathering to design and implementation.
+
+LiquidMatrix
+Orchard Park, New York
+Chief Architect
+August 2001 – March 2002
+
+I was the chief architect and software developer for ActiveCampus eMarketing 2.0. This product is based on Microsoft .NET platform. The product had an internet front-end based on ASP.NET and middleware components based on SOAP/Web Services and Microsoft SQL Server.
+
+Reciprocal
+Buffalo, New York
+Software Architect Enterprise Management Systems
+January 1997 – July 2001
+
+I spearheaded research, design, and implementation of a sophisticated datacenter enterprise management system for a heterogeneous network of SUN, Microsoft NT, and Nortel equipment using BMC Patrol and IBM Micromuse Netcool/Omnibus.
+
+ClientLogic
+Buffalo, New York
+Chief System Software Architect
+January 1996 – January 1997
+
+I was the designer and chief programmer of a fault-tolerant and load-balanced distributed system framework similar to Object Management Group’s CORBA.
+
+ClientLogic
+Buffalo, New York
+R&D Manager of Electronic Services
+February 1994 – January 1996
+
+I founded ClientLogic’s Interactive Voice Response application development group. Development languages included C, C++, VoiceTek Generations, and Informix Embedded SQL for C.
+
+O.A. Systems
+Buffalo, New York
+Senior Network Engineer / Repair Depot Manager
+March 1992 – February 1994
+
+I installed and supported Novell and Windows NT computer networks for local hospitals, town government offices, law firms, and various small businesses.
+
+TECHNICAL PROFICIENCIES
+
+Languages & Frameworks:
+C#, C++, C, SQL, JavaScript, TypeScript, Node.js, Angular, React, HTML/CSS, ASP.NET, Playwright, AI/LLM (OpenAI)
+
+Tools & Platforms:
+Visual Studio, Visual Studio Code, Azure DevOps, SQL Server, PostgreSQL, Oracle, Azure Cloud and AWS Cloud
+
+Process & Methodologies:
+Trained in Leading SAFe, Certified Scrum Master, SSDLC, CI/CD/CT, Agile, XP, RAD, Test-Driven Development, Relational & Object-Oriented Design
+
+CERTIFICATIONS
+
+AWS Certified Cloud Practitioner
+Microsoft Certified: Azure Fundamentals
+
+HOBBY PROJECTS
+
+bitdog.io
+I created bitdog.io as a hobby project to learn more about home automation, AI voice assistants, and mobile development.
+
+Drone Mower
+I am working on a fully automated robot to mow my excessively large lawn.
+
+Restraining Bolt
+After a robotic mower ran away, I created a specialized microcontroller-based solution to monitor the navigation computer for any errors.
+
+Internet Radio Device
+I created an ESP32/Arduino device to stream internet radio.
+
+Ghostbusters Proton Pack
+I wanted to create interactive art with steampunk style.
+
+Splunk Voice
+This is a project I created for a Splunk Hackathon that enabled mobile access to Splunk information.
+
+EDUCATION
+
+Erie Community College
+Computer Science, 1988
+
+Bryant & Stratton Business School
+Electronic Technology, 1991 — GPA: 4.0
+
+WEBSITES
+
+Latest resume: https://github.com/vincemic/cv
+LinkedIn:    
+Charlie's architecture video: https://youtu.be/wVZYdv2xFuI
+Charlie in Action video: https://youtu.be/J-9OxlRuvxk
+Mobile App Proof-of-Concept video: https://youtu.be/Pr-FahmlgAc
+ITSM Integration video: https://youtu.be/OLR6cn0Db3s
+Alexa Skill: https://www.amazon.com/Independent-Health/dp/B072R5FF5B
+tangocard.com API integration: https://www.tangocard.com/
+XBAND: https://en.wikipedia.org/wiki/XBAND
+Zing Interactive System: http://www.faqs.org/rulings/rulings1995HQ957321.html
+bitdog.io blog: https://cookbook.bitdog.io
+Bitdog Hub Video: https://youtu.be/KvEhGHpWIg8
+Bitdog Alexa Skill Integration Video: https://youtu.be/bTyWyyuCeeY
+Bitdog Google Home Integration Video: https://youtu.be/fluZOkQmAs0
+Drone Mower Prototype Rover Video: https://youtu.be/2xoTmh7zPiI
+Little Mower Video: https://youtu.be/frFU9pNqIiI
+Big Mower Video: https://youtube.com/shorts/XBVs-bLQMFM?feature=share
+Restraining Bolt open source project: https://github.com/bitdog-io/restraining_bolt
+Restraining Bolt Testing Video: https://youtu.be/QM2f_M2HsgQ
+Internet Radio Device User Interface Video: https://youtu.be/TLgxNaJ1kg0
+Internet Radio Device Code: https://github.com/vincemic/ESP32-S3-InternetRadio
+Ghostbusters Proton Pack Overload Video: https://youtube.com/shorts/v15teEuBYOc?si=-qfatj2tpyOcYJWo
+Splunk Voice Mobile App Video: https://youtu.be/SWGTSLgeVI4?si=rfV6gRL7FhOT2IOf
