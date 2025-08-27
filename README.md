@@ -38,10 +38,13 @@ Williamsville, NY
 
 I am one of six Enterprise Architects acting in a distributed CTO capacity. Each architect is aligned with a business portfolio servicing a set of technical solutions. I am aligned with customer experience, software development, integration, and cloud strategy. I often lead proof-of-concept development projects. I have established and scaled multiple agile delivery teams for cloud infrastructure, .NET development, and enterprise correspondence management. I specialize in providing enterprise directives and solutions for software development, SSDLC, CI/CD/CT, agile project management.
 
-- Built and managed high performing teams including:
-  - Enterprise Correspondence Management Team (ECM)
-  - .NET Development Team (NET)
-  - Cloud Infrastructure Team (CIT)
+- I built and managed high performing teams including:
+
+  - **Enterprise Correspondence Management Team (ECM)**: I established a team to manage all of Independent Health's member, provider, and employer group correspondence. This centralized and standardized the development and production of millions of dollars of printed collateral. This enabled Independent Health to increase production quality while also reducing overall cost of implementing and producing new correspondence.
+  
+  - **.NET Development Team (NET)**: I established a new software development team to bring the Independent Health's member portal and mobile app development in-house. I hired developers, co-managed the team, and gave training for tools, processes, and architecture.
+  
+  - **Cloud Infrastructure Team (CIT)**: I established and co-managed the cloud infrastructure team. This team lead Independent Health's migration to the cloud, first starting with AWS and then Azure. I helped develop the software development life cycle and infrastructure-as-code processes for the team.
     
 - I delivered transformative digital platforms including:
   
