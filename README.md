@@ -21,7 +21,6 @@ I am a goal-driven **Enterprise Architect & Technology Leader** with over 30 yea
 - Creating and Communicating Architectural Vision
 - Team Formation, Leadership & Cross-Functional Collaboration
 - Establishing and leading high-performing teams and cross-functional departments
-- Building and managing 
 - Agile & SAFe Project Management
 - Solution Design & Enterprise Integration
 - SSDLC & CI/CD/CT Technology and Practices
