@@ -38,6 +38,11 @@ Williamsville, NY
 
 I am one of six Enterprise Architects acting in a distributed CTO capacity. Each architect is aligned with a business portfolio servicing a set of technical solutions. I am aligned with customer experience, software development, integration, and cloud strategy. I often lead proof-of-concept development projects. I have established and scaled multiple agile delivery teams for cloud infrastructure, .NET development, and enterprise correspondence management. I specialize in providing enterprise directives and solutions for software development, SSDLC, CI/CD/CT, agile project management.
 
+- Built and managed high performing teams including:
+  - Enterprise Corespondence Management Teamn (ECM)
+  - .NET Development Team (NET)
+  - Cloud Infrastructure Team (CIT)
+    
 - I delivered transformative digital platforms including:
   
   - **Benefit Chatbot Charlie**: I created a conversational AI chatbot proof-of-concept. The chatbot is able to answer dozens of standard member questions by using real-time member information queried from back-end systems. Charlie's architecture used the following:
