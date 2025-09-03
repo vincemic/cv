@@ -1,17 +1,18 @@
-# **Vincent Miceli - Enterprise Architect**
+# **Vincent Miceli**
 
 ![Picture Vincent Miceli](https://www.gravatar.com/avatar/301658e9a5451302b1e179bc9726b424)
 
-Buffalo, NY
-[vjm@orchardparksoftware.com](mailto:vjm@orchardparksoftware.com)
+Buffalo, NY  
+email: <vjm@orchardparksoftware.com>  
 
-Latest resume version: <https://github.com/vincemic/cv>
+GitHub: <https://github.com/vincemic>  
+LinkedIn: <https://www.linkedin.com/in/vincentmiceli/>  
 
 ---
 
 ## **Professional Summary**  
 
-I am a goal-driven **Enterprise Architect & Technology Leader** with over 30 years of full-spectrum expertise in software development, enterprise architecture, and agile project execution. I have a proven track record of leading technology transformations, building high-performing teams, and delivering innovative digital experiences. I am very experienced at aligning technology with business strategy to create user-centric solutions.
+I am a goal-driven **Architect & Technology Leader** with over 30 years of full-spectrum expertise in software development, enterprise architecture, and agile project execution. I have a proven track record of leading technology transformations, building high-performing teams, and delivering innovative digital experiences. I am very experienced at aligning technology with business strategy to create user-centric solutions.
 
 ---
 
@@ -33,7 +34,7 @@ I am a goal-driven **Enterprise Architect & Technology Leader** with over 30 yea
 **Independent Health**  
 Williamsville, NY  
 **Enterprise Architect, Cloud Enablement & Digital Experience**  
-*Feb 2012 – Present*  
+*Feb 2012 – Aug 2025*  
 
 I am one of six Enterprise Architects acting in a distributed CTO capacity. Each architect is aligned with a business portfolio servicing a set of technical solutions. I am aligned with customer experience, software development, integration, and cloud strategy. I often lead proof-of-concept development projects. I have established and scaled multiple agile delivery teams for cloud infrastructure, .NET development, and enterprise correspondence management. I specialize in providing enterprise directives and solutions for software development, SSDLC, CI/CD/CT, agile project management.
 
@@ -322,17 +323,17 @@ This is a project I created for a Splunk Hackathon that enabled mobile access to
 **Born with technology in my DNA**, Buffalo NY  
 "Life-long learner, 1969"  
 
-- Electronic hobbyist starting at age 8
-- Taught myself Basic on TI/99 4A at age 12
-- Taught myself 6502 Assembler on Commodore 64 at age 14
-- Building electronic projects using microcontrollers at age 18
+- I became an electronic hobbyist at age 8
+- I taught myself Basic on TI/99 4A at age 12
+- I taught myself 6502 Assembler on Commodore 64 at age 14
+- I was building electronic projects using microcontrollers at age 18
 
 **Erie Community College**, Orchard Park, NY
 *Computer Science, 1988*  
 
-- Left program when professor wouldn't let me use my home computer to finish Pascal programming assignments. ECC's mainframe was slow and over utilized. It often took hours to complete simple assignments which would take only minutes on my Commodore 128.
+- I left the program when professor wouldn't let me use my home computer to finish Pascal programming assignments. ECC's mainframe was slow and over utilized. It often took hours to complete simple assignments which would take only minutes on my Commodore 128.
 
 **Bryant & Stratton Business School**, Clarence, NY  
 *Electronic Technology, 1991 — GPA: 4.0*  
 
-- Left program with only a half credit remaining towards an associates degree for first job repairing computer equipment.
+- I left the program with only half credit remaining towards an associate degree for first job repairing computer equipment.
